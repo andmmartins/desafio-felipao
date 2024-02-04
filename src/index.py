@@ -1,1 +1,2 @@
-print("oi")
+nome = "Anderson"
+print(nome)
