@@ -40,7 +40,6 @@ class Hero:
 
         print(f'O {self.tipo} atacou usando {ataque}')
 
-# Exemplo de uso da classe Hero
 heroi = Hero('Aragorn', 30, 'guerreiro')
 heroi.atacar()
 
