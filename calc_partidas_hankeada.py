@@ -1,6 +1,6 @@
 """Calculadora de partidas Rankeadas
 Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do cálculo (vitórias - derrotas)
-{Regras}
+
 Se vitórias for menor do que 10 = Ferro
 Se vitórias for entre 11 e 20 = Bronze
 Se vitórias for entre 21 e 50 = Prata
@@ -12,7 +12,7 @@ Se vitórias for maior ou igual a 101 = Imortal
 Saída
 Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de {saldo_de_viorias} e está no nível {nível}
-""""
+"""
 
 vitórias = int(input("Digite a quantidade de vitórias: "))
 derrotas = int(input("Digite a quantidade de derrotas: "))
