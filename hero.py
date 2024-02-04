@@ -17,7 +17,7 @@ além disso, deve ter um método chamado atacar que deve atender os seguintes re
 Ao final deve se exibir uma mensagem:
 print('O {tipo} atacou usando {ataque}"
 ex: mago atacaou usando magia 
-ex: guerreiro atacu usando espada
+ex: guerreiro atacou usando espada
 
 """
 class Hero:
